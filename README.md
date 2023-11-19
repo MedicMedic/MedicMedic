@@ -1,4 +1,4 @@
-# Hi! My name is Medic!
+# Hi! My name is Medic! (Marianne M. Edic)
 
 I'm a 3rd Year Computer Science student at the New Era University College of Informatics and Computer Studies. I hope to escape this place by 2025.
 
