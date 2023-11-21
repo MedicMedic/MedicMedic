@@ -14,12 +14,9 @@ Spoken: Filipino, English, Thai (can read), Malay (sikit-sikit), and Chinese (le
 # My hobbies are...
 Singing, writing, dancing, composing, drawing, voice acting, and many more to be discovered.
 
-# Cute things because my classmate did a cute thing on his profile and I wanna beat him:
-![marianne gagnamagnidfullbody](https://github.com/MedicMedic/MedicMedic/assets/142379309/9d4ee1e2-b743-4da6-80cb-60d6b739706b)
-![marianne gagnamagnidfullbody](https://github.com/MedicMedic/MedicMedic/assets/142379309/0735dc1b-3c51-4d82-9329-c30162edfe5c)
-![marianne gagnamagnidfullbody](https://github.com/MedicMedic/MedicMedic/assets/142379309/aac51782-aef3-45e9-a21a-5aef1498d3b5)
-![marianne gagnamagnidfullbody](https://github.com/MedicMedic/MedicMedic/assets/142379309/1dad7caf-ee60-451e-a714-a32f66f568f4)
-![marianne gagnamagnidfullbody](https://github.com/MedicMedic/MedicMedic/assets/142379309/579d147c-9504-472c-881f-be48d5ee5adf)
+# Shut up, Vem. Can your animation dance?
+![animation](https://github.com/MedicMedic/MedicMedic/assets/142379309/fc2969a8-1307-461a-9e39-829327ad15fc)
+
 
 
 <!---
