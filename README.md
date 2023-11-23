@@ -15,7 +15,7 @@ Spoken: Filipino, English, Thai (can read), Malay (sikit-sikit), and Chinese (le
 Singing, writing, dancing, composing, drawing, voice acting, and many more to be discovered.
 
 # Here's a character dancing. You should click on her.
-![animation (https://github.com/MedicMedic/MedicMedic/assets/142379309/fc2969a8-1307-461a-9e39-829327ad15fc)] (https://www.youtube.com/channel/UC1IQIrczvhfe6wksC_k4nKw)
+[![Awesome channel!](https://github.com/MedicMedic/MedicMedic/assets/142379309/fc2969a8-1307-461a-9e39-829327ad15fc)](https://www.youtube.com/channel/UC1IQIrczvhfe6wksC_k4nKw)
 
 <!---
 MedicMedic/MedicMedic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
