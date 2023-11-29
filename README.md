@@ -9,7 +9,7 @@ I'm a 3rd Year Computer Science student at the New Era University College of Inf
 |![4499409_1694105767_page-0001](https://github.com/MedicMedic/MedicMedic/assets/142379309/89e78103-893f-444f-9ee4-d62bbb0f34a4)|
 
 # My languages are...
-Coding: Java, Python, HTML, and Hopscotch (seriously, I started there)
+Coding: Java, Python, HTML, JavaScript, CSS, and Hopscotch (seriously, I started there)
 Spoken: Filipino, English, Thai (can read), Malay (sikit-sikit), and Chinese (learning).
 
 # My hobbies are...
