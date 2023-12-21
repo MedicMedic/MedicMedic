@@ -13,6 +13,7 @@ I'm a 3rd Year Computer Science student at the New Era University College of Inf
 
 # My languages are...
 Coding: Java, Python, HTML, JavaScript, CSS, and Hopscotch (seriously, I started there)
+
 Spoken: Filipino, English, Thai (can read), Malay (sikit-sikit), and Chinese (learning).
 
 # My hobbies are...
