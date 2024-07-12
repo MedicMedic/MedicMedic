@@ -13,9 +13,30 @@ You may contact me through my [MySpace](https://myspace.com/medicthemedicine) ac
 |![4499409_1694105767_page-0001](https://github.com/MedicMedic/MedicMedic/assets/142379309/89e78103-893f-444f-9ee4-d62bbb0f34a4)|![Marianne Edic - Intro to Programming](https://github.com/MedicMedic/MedicMedic/assets/142379309/87cd721c-a477-48b0-bc7e-23e8ee982e21)|
 
 # My Tech Achievements
+|Best Dashboards|
+|----|
+|[Awesome Chocolate](https://public.tableau.com/app/profile/marianne.edic/viz/AwesomeChocolateDashboardReport_17153507387280/Dashboard1)|
+|[Soda 2022](https://app.powerbi.com/view?r=eyJrIjoiYmVmYzY2OTMtMmY2Zi00ZGU4LWExNTMtMDYxZDgzODBhZDY1IiwidCI6IjZmNWUxMmIxLTQ1NzYtNDhmMi05ZGIzLTBhNTJmZjllNmVkZSIsImMiOjEwfQ%3D%3D)|
+|[Student Activity](https://app.powerbi.com/view?r=eyJrIjoiMzlhZjA3OTgtN2JjOS00NjdlLTkwMzgtMDEzZTM2MzI2M2QzIiwidCI6ImVmYWZiOWU3LWRlNjktNDVhMS04ZTk4LTFhMmZjNWMxMWJlNSIsImMiOjEwfQ%3D%3D)|
 
+|Best Design Patterns|
+|----|
+|[Observer Pattern](https://github.com/MedicMedic/SoftEng1Lab8)|
+|[Command Pattern](https://github.com/MedicMedic/SoftEng1Lab5)|
+|[Facade Pattern](https://github.com/MedicMedic/SoftEng1Lab7)|
+|[Visitor Pattern](https://github.com/MedicMedic/SoftEng2LabSW4)|
+|[Builder Pattern](https://github.com/MedicMedic/SoftEng2Lab1)|
+
+|Things I'm actually proud of|
+|----|
+|[Task RNG](https://github.com/MedicMedic/TaskRNG)|
+|[The Super Stellar Compiler](https://github.com/MedicMedic/The-Super-Stellar-Compiler)|
+# My tools are...
+Data Visualization: Power BI and Tableau Public
+DBMS: DB2
+Dev Tools: Visual Studio Code, Eclipse, Pentaho, and Lucidchart
 # My languages are...
-Coding: Java, Python, HTML, JavaScript, CSS, and Hopscotch (seriously, I started there)
+Coding: Java, Python, HTML, JavaScript, CSS, Assembly, Bash, PHP, and Hopscotch (seriously, I started there)
 
 Spoken: Filipino, English, Thai (can read), Malay (sikit-sikit), and Chinese (learning).
 
