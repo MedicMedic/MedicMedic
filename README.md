@@ -1,7 +1,7 @@
 # Hi! My name is Medic! (Marianne M. Edic)
 |![awesome sauce](https://github.com/user-attachments/assets/525b7957-a7b3-4603-b99b-a7ea4f81c3d0)|
 |---|
-I'm a 3rd Year Computer Science student at the New Era University College of Informatics and Computer Studies. I hope to escape this place by 2025.
+I'm a 4th Year Computer Science student at the New Era University College of Informatics and Computer Studies. I hope to escape this place by 2025.
 
 # Contact Information
 You may contact me through my [MySpace](https://myspace.com/medicthemedicine) account.
